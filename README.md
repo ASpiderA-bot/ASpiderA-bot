@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Full-Stack Developer | AI/ML Enthusiast | B.Tech CSE@IEM Kolkata | On-Site Intern@VLED IIT Ropar**
+**Full-Stack Developer | AI/ML Enthusiast | B.Tech CSE@IEM Kolkata | Former On-Site Intern@VLED IIT Ropar**
 
 [LinkedIn](https://linkedin.com) • [Portfolio](https://github.com/ASpiderA-bot?tab=repositories)
 
@@ -14,7 +14,7 @@
 
 - **🏫 Education**: IEM Kolkata B.Tech CSE | DPS Ruby Park Kolkata
 - **💻 Interests**: Full-Stack Development (MERN), Machine Learning, Natural Language Processing
-- **🔬 Current Role**: Student | Former VLED Intern | Mentor: Prof. Sudarshan Iyengar
+- **🔬 Current Role**: Student | Former VLED@IIT Ropar Intern
 - **🏆 Achievements**: NPTEL Gold in "Joy of Computing" (94%, Elite Top 5%)
 - **📍 Location**: Kolkata, India
 
@@ -43,7 +43,7 @@ tools         = ["Git", "MATLAB"]
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### **1. FLN Assessment Platform** 
 **MERN Stack | LLM Integration | Accessibility**
@@ -62,7 +62,7 @@ tools         = ["Git", "MATLAB"]
 - Open-source note-taking platform with real-time collaboration
 - *Status: Open source contributor*
 
-###Poster Presentation IEMHEALS 2025 **4. Multimodal AI Image Analytics**
+### **4. Multimodal AI Image Analytics(Poster Presentation IEMHEALS 2025) **
 **Innovation Project | CV | Deep Learning**
 - Edge-AI pipeline for multispectral imaging (RGB + NIR Cameras)
 - Comprehensive analysis framework
@@ -122,6 +122,6 @@ tools         = ["Git", "MATLAB"]
 
 <div align="center">
 
-**Open to collaborations, internships, and exciting projects! 🚀**
+**Open to collaborations, internships, and exciting projects!**
 
 </div>
