@@ -2,9 +2,9 @@
 
 <div align="center">
 
-**Full-Stack Developer | AI/ML Enthusiast | IIT Ropar**
+**Full-Stack Developer | AI/ML Enthusiast | B.Tech CSE@IEM Kolkata | On-Site Intern@VLED IIT Ropar**
 
-[LinkedIn](https://linkedin.com) • [Email](mailto:arnab.acharya1612@gmail.com) • [Portfolio](https://github.com/ASpiderA-bot?tab=repositories)
+[LinkedIn](https://linkedin.com) • [Portfolio](https://github.com/ASpiderA-bot?tab=repositories)
 
 </div>
 
@@ -12,23 +12,22 @@
 
 ## 🎓 About Me
 
-- **🏫 Education**: IIT Ropar | ASSCE Merit Scholar (2025 - Present)
-- **💻 Specialization**: Full-Stack Development (MERN) & Machine Learning
-- **🔬 Current Role**: VLED Labs Intern | Monitor: Prof. Sudarshan Iyengar
+- **🏫 Education**: IEM Kolkata B.Tech CSE | DPS Ruby Park Kolkata
+- **💻 Interests**: Full-Stack Development (MERN), Machine Learning, Natural Language Processing
+- **🔬 Current Role**: Student | Former VLED Intern | Mentor: Prof. Sudarshan Iyengar
 - **🏆 Achievements**: NPTEL Gold in "Joy of Computing" (94%, Elite Top 5%)
 - **📍 Location**: Kolkata, India
 
 ---
 
-## 💼 Current Work
+## 💼 Work
 
 ### **FLN Assessment Platform** (VLED Labs)
-*AI-powered Foundational Literacy & Numeracy Assessment* | May 2026 - Present
+*AI-powered Foundational Literacy & Numeracy Assessment* | May 2026 - July 2026
 
-- Built worksheet generation engine with Qwen2.5 LLM integration
+- Built worksheet generation engine
 - Implemented competency mapping & automated evaluation system
 - Full MERN stack development with Chrome extension for accessibility
-- **Performance**: Qwen2.5-1.5B & Phi-3.5-mini achieving 85%+ accuracy
 
 ---
 
@@ -50,8 +49,7 @@ certifications = ["NPTEL: Joy of Computing (Gold)", "Python for Data Science (80
 ### **1. FLN Assessment Platform** 
 **MERN Stack | LLM Integration | Accessibility**
 - Worksheet generation & competency mapping engine
-- 85%+ accuracy on LLM model evaluations
-- Full Chrome extension + web application
+- Web application
 - *Tech: React, TypeScript, Node.js, MongoDB, Qwen2.5*
 
 ### **2. Krishi Darshan Transcript Extraction Pipeline**
@@ -65,9 +63,9 @@ certifications = ["NPTEL: Joy of Computing (Gold)", "Python for Data Science (80
 - Open-source note-taking platform with real-time collaboration
 - *Status: Open source contributor*
 
-### **4. Multimodal AI Image Analytics**
+###Poster Presentation IEMHEALS 2025 **4. Multimodal AI Image Analytics**
 **Innovation Project | CV | Deep Learning**
-- Edge-AI pipeline for multispectral imaging (RGB + NIR)
+- Edge-AI pipeline for multispectral imaging (RGB + NIR Cameras)
 - Comprehensive analysis framework
 - *Tech: TensorFlow, Python*
 
@@ -85,9 +83,9 @@ certifications = ["NPTEL: Joy of Computing (Gold)", "Python for Data Science (80
   - Python for Data Science — **80% (Silver)**
   - Enhancing Soft Skills & Personality — **98% (Gold)**
 
-- **🎖️ Sanskriti National Talent Search Exam** — Second Round Qualifier | Medal for First Round
+- **🎖️ SCNTSE 2025** — Second Round Qualifier | Medal for First Round
 
-- **📜 Scholar Badge** — Delhi Public School, Ruby Park (2019-2023)
+- **📜 Scholar Badge** — Delhi Public School, Ruby Park (2019,2023)
 
 ---
 
@@ -97,15 +95,13 @@ certifications = ["NPTEL: Joy of Computing (Gold)", "Python for Data Science (80
 |----------|--------|
 | **Frontend** | React, TypeScript, Express.js, Responsive Design |
 | **Backend** | Node.js, MongoDB, MySQL, RESTful APIs |
-| **Machine Learning** | LLM Integration, NLP, TensorFlow, PyTorch |
-| **Hardware** | Arduino, IoT, Sensor Integration |
+| **Machine Learning** | LLM Integration, NLP|
 | **DevOps** | Git, GitHub, CI/CD Basics |
 
 ---
 
 ## 🎯 What I'm Looking For
 
-- 🔬 Opportunities in **Full-Stack Development** or **ML Engineering**
 - 🤝 Open-source contributions in MERN & ML ecosystems
 - 💡 Projects combining **AI with real-world impact**
 - 📚 Continuous learning in emerging technologies
@@ -120,7 +116,6 @@ certifications = ["NPTEL: Joy of Computing (Gold)", "Python for Data Science (80
 
 ## 📬 Let's Connect
 
-- **Email**: [arnab.acharya1612@gmail.com](mailto:arnab.acharya1612@gmail.com)
 - **LinkedIn**: [Arnab Acharya](https://linkedin.com/in/arnab-acharya)
 - **Portfolio**: [GitHub Repositories](https://github.com/ASpiderA-bot?tab=repositories)
 
