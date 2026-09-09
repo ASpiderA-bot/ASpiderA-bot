@@ -37,9 +37,8 @@
 languages     = ["Python", "TypeScript", "JavaScript", "C"]
 frontend      = ["React", "TypeScript", "Node.js", "Express.js"]
 databases     = ["MongoDB", "MySQL"]
-ml_tools      = ["TensorFlow", "PyTorch", "Qwen2.5", "Ollama", "LLaMA"]
-tools         = ["Git", "MATLAB", "AutoCAD", "Arduino"]
-certifications = ["NPTEL: Joy of Computing (Gold)", "Python for Data Science (80%)"]
+ml_tools      = [ "Ollama" ]
+tools         = ["Git", "MATLAB"]
 ```
 
 ---
@@ -54,7 +53,7 @@ certifications = ["NPTEL: Joy of Computing (Gold)", "Python for Data Science (80
 
 ### **2. Krishi Darshan Transcript Extraction Pipeline**
 **ML | NLP | Data Processing**
-- Processed 74 episodes of Hindi agricultural content
+- Processing 74 episodes of Hindi agricultural content
 - Automated transcription → keyword extraction → CSV generation
 - *Tech: Python, NLP, Data Processing*
 
@@ -124,7 +123,5 @@ certifications = ["NPTEL: Joy of Computing (Gold)", "Python for Data Science (80
 <div align="center">
 
 **Open to collaborations, internships, and exciting projects! 🚀**
-
-![Profile Views](https://komarev.com/ghpvc/?username=ASpiderA-bot&color=blue)
 
 </div>
