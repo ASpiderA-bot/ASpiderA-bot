@@ -1,127 +1,54 @@
-# Hi there, I'm Arnab Acharya 👨‍💻
+# Arnab Acharya
 
-<div align="center">
+Engineering student at IEM Kolkata. I build AI systems for education and agriculture, and I like tools that stay useful after the demo ends.
 
-**Full-Stack Developer | AI/ML Enthusiast | B.Tech CSE@IEM Kolkata | Former On-Site Intern@VLED IIT Ropar**
+Most of my work lives in two places: making AI practical in real classrooms, and figuring out when small language models should act instead of answer.
 
-[LinkedIn](https://linkedin.com) • [Portfolio](https://github.com/ASpiderA-bot?tab=repositories)
+## Work
 
-</div>
+**FLN Assessment Platform** — VLED, IIT Ropar  
+MERN-stack platform for Foundational Literacy & Numeracy assessments: worksheet generation, competency mapping, and personalized remediation.
 
----
+**SLM Tool-Calling Benchmark** — Independent research  
+Benchmarked six small language models on tool-use restraint, latency, and accuracy trade-offs.
 
-## 🎓 About Me
+**Krishi Darshan Pipeline** — annam.ai  
+Automated transcription pipeline for 74 episodes of Doordarshan's Hindi agricultural program, using yt-dlp and Whisper-medium.
 
-- **🏫 Education**: IEM Kolkata B.Tech CSE | DPS Ruby Park Kolkata
-- **💻 Interests**: Full-Stack Development (MERN), Machine Learning, Natural Language Processing
-- **🔬 Current Role**: Student | Former VLED@IIT Ropar Intern
-- **🏆 Achievements**: NPTEL Gold in "Joy of Computing" (94%, Elite Top 5%)
-- **📍 Location**: Kolkata, India
+## Side projects
 
----
+- **CyberTalks with Arnab** — Podcast on blockchain, cybersecurity, and social engineering.
+- **Money 101** — A short financial literacy guide for college students.
+- **Multimodal Edge AI** — RGB + NIR imaging pipeline (IEMHEALS 2025).
+- **Automatic Plant Watering System** — Arduino-based irrigation with soil moisture sensors.
 
-## 💼 Work
+## Education
 
-### **FLN Assessment Platform** (VLED Labs)
-*AI-powered Foundational Literacy & Numeracy Assessment* | May 2026 - July 2026
+B.Tech in Computer Science and Engineering, IEM Kolkata.  
+Class X: 94.8% · Class XII: 85.8%
 
-- Built worksheet generation engine
-- Implemented competency mapping & automated evaluation system
-- Full MERN stack development with Chrome extension for accessibility
+## Recognition
 
----
+- NPTEL Gold + Elite Top 5% — Joy of Computing using Python
+- NPTEL Gold + Elite Top 1% — Enhancing Soft Skills & Personality
+- SCNTSE Second Round Qualifier
+- DPS Ruby Park Scholar Badge (2019, 2023)
 
-## 🛠️ Tech Stack
+## Tools
 
-```python
-languages     = ["Python", "TypeScript", "JavaScript", "C"]
-frontend      = ["React", "TypeScript", "Node.js", "Express.js"]
-databases     = ["MongoDB", "MySQL"]
-ml_tools      = [ "Ollama" ]
-tools         = ["Git", "MATLAB"]
-```
+Python, TypeScript, C, React, Node.js, Express, MongoDB, MySQL, Git, MATLAB, AutoCAD, Arduino.
 
----
+## Languages
 
-## 🚀 Projects
+English, Hindi, Bengali.
 
-### **1. FLN Assessment Platform** 
-**MERN Stack | LLM Integration | Accessibility**
-- Worksheet generation & competency mapping engine
-- Web application
-- *Tech: React, TypeScript, Node.js, MongoDB, Qwen2.5*
+## Contact
 
-### **2. Krishi Darshan Transcript Extraction Pipeline**
-**ML | NLP | Data Processing**
-- Processing 74 episodes of Hindi agricultural content
-- Automated transcription → keyword extraction → CSV generation
-- *Tech: Python, NLP, Data Processing*
+- Email: [arnab.acharya1612@gmail.com](mailto:arnab.acharya1612@gmail.com)
+- LinkedIn: [linkedin.com/in/arnab-acharya1](https://linkedin.com/in/arnab-acharya1)
+- GitHub: [github.com/ASpiderA-bot](https://github.com/ASpiderA-bot)
+- Podcast: [CyberTalks with Arnab on Spotify](https://creators.spotify.com/pod/show/3S6KA0yvwKHiDNUzArVeXi/episodes)
+- YouTube: [@WoodandWire-12](https://www.youtube.com/@WoodandWire-12)
+- Amazon author page: [Arnab Acharya](https://www.amazon.in/stores/Arnab-Acharya/author/B0GPYTDDHC?ref=sr_ntt_srch_lnk_1&qid=1790012834&sr=8-1&shoppingPortalEnabled=true)
 
-### **3. Vi-Notes** 
-**React | TypeScript | Express.js | MongoDB**
-- Open-source note-taking platform with real-time collaboration
-- *Status: Open source contributor*
-
-### **4. Multimodal AI Image Analytics(Poster Presentation IEMHEALS 2025) **
-**Innovation Project | CV | Deep Learning**
-- Edge-AI pipeline for multispectral imaging (RGB + NIR Cameras)
-- Comprehensive analysis framework
-- *Tech: TensorFlow, Python*
-
-### **5. Automatic Plant Watering System**
-**Arduino | IoT | Hardware**
-- Automated irrigation system using soil moisture sensors
-- *Tech: Arduino, C*
-
----
-
-## 🏆 Awards & Recognition
-
-- **🥇 NPTEL Certifications**
-  - Joy of Computing Using Python — **94% (Gold, Elite, Top 5%)**
-  - Python for Data Science — **80% (Silver)**
-  - Enhancing Soft Skills & Personality — **98% (Gold)**
-
-- **🎖️ SCNTSE 2025** — Second Round Qualifier | Medal for First Round
-
-- **📜 Scholar Badge** — Delhi Public School, Ruby Park (2019,2023)
-
----
-
-## 📊 Key Skills Breakdown
-
-| Category | Skills |
-|----------|--------|
-| **Frontend** | React, TypeScript, Express.js, Responsive Design |
-| **Backend** | Node.js, MongoDB, MySQL, RESTful APIs |
-| **Machine Learning** | LLM Integration, NLP|
-| **DevOps** | Git, GitHub, CI/CD Basics |
-
----
-
-## 🎯 What I'm Looking For
-
-- 🤝 Open-source contributions in MERN & ML ecosystems
-- 💡 Projects combining **AI with real-world impact**
-- 📚 Continuous learning in emerging technologies
-
----
-
-## 🌐 Languages
-
-🇬🇧 **English** • 🇮🇳 **Hindi** • 🇮🇳 **Bengali**
-
----
-
-## 📬 Let's Connect
-
-- **LinkedIn**: [Arnab Acharya](https://linkedin.com/in/arnab-acharya)
-- **Portfolio**: [GitHub Repositories](https://github.com/ASpiderA-bot?tab=repositories)
-
----
-
-<div align="center">
-
-**Open to collaborations, internships, and exciting projects!**
-
-</div>
+Kolkata, India
